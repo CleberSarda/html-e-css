@@ -1,0 +1,18 @@
+/* Site navigation */
+
+.nav li {
+    float: left;
+    font-size: 0.75em;
+
+}
+
+.nav li a {
+    font-size: 1.5em;
+
+}
+
+.nav li:first-child {
+    list-style: none;
+    padding-left: 0;
+
+}
